@@ -1,5 +1,5 @@
 **Các loại access modifier:**
-[[Cast Type (ÉP KIỂU)]] [[Phân biệt CLASS VÀ OBJECT]][[Constructor in java]][[STATIC AND FINAL]][[INTERFACE IN JAVA]][[Phân biệt Orverviding and Orverloading]][[Encapsulation (Tính Đóng gói)]][[Inhertitance (Tính kế thừa)]][[Polymorphism (Tính đa hình)]]
+[[Cast Type (ÉP KIỂU)]] [[Phân biệt CLASS VÀ OBJECT]][[Constructor in java]][[STATIC AND FINAL]][[INTERFACE IN JAVA]][[Phân biệt Orverviding and Orverloading]][[Encapsulation (Tính Đóng gói)]][[Inhertitance (Tính kế thừa)]][[Polymorphism (Tính đa hình)]][[Abstraction (Tính trừu tượng)]]
 **public:**
 Thành phần được đánh dấu là public có thể được truy cập từ bất kỳ đâu trong chương trình, bao gồm (class con, class bên ngoài).
 
