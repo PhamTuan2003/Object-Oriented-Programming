@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "8cbc5ff55692cba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e81dbc1fa5279921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49ef5843e8e325a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Các Câu Hỏi Thường Gặp Khi Học Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83de19cc9bbe8d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a74144c5780ca0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18c9c014b5bf653b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5d2d874aee9cdfe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"OOP/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "666d9c5f0030dbd7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0a9999d16b8b81f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e9de29348b0704",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d4930c875645a33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OOP/Các Câu Hỏi Thường Gặp Khi Học Java.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a321fcd9eba6a0f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OOP/Các Câu Hỏi Thường Gặp Khi Học Java.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5bc215c7dbd1550",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f7855d21c2bc5bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OOP/Các Câu Hỏi Thường Gặp Khi Học Java.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false
+    }
+  },
+  "active": "49ef5843e8e325a9",
+  "lastOpenFiles": [
+    "OOP/INTERFACE IN JAVA.md",
+    "OOP/OBJECT ORIENTED PROGRAMMING.md",
+    "OOP/Các Câu Hỏi Thường Gặp Khi Học Java.md",
+    "image/Screenshot 2024-09-20 104931.png",
+    "image/Screenshot 2024-09-20 104931 1.png",
+    "image/Screenshot 2024-09-20 111016.png",
+    "image/Screenshot 2024-09-20 105653.png",
+    "image/Screenshot 2024-09-20 105623.png",
+    "image/Screenshot 2024-09-20 105316.png",
+    "image/Screenshot 2024-09-20 105110.png",
+    "image/Screenshot 2024-09-18 234658.png",
+    "Chưa đặt tên.md",
+    "image/Screenshot 2024-09-18 233235 1.png",
+    "image/Screenshot 2024-09-18 233235.png",
+    "image",
+    "Chưa đặt tên 1.canvas",
+    "Chưa đặt tên.canvas",
+    "OOP/Phân biệt Orverviding and Orverloading.md",
+    "OOP/STATIC AND FINAL.md",
+    "OOP/Constructor in java.md",
+    "OOP/Phân biệt CLASS VÀ OBJECT.md",
+    "OOP/Cast Type (ÉP KIỂU).md",
+    "OOP"
+  ]
+}
