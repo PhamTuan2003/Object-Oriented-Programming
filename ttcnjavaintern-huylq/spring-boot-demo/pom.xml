@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://maven.apache.org/POM/4.0.0"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <artifactId>spring-boot-demo</artifactId>
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.springframework.boot.experimental</groupId>
+                        <artifactId>spring-boot-thin-layout</artifactId>
+                        <version>1.0.27.RELEASE</version>
+                    </dependency>
+                </dependencies>
+                <groupId>org.springframework.boot</groupId>
+            </plugin>
+        </plugins>
+    </build>
+    <dependencies>
+        <dependency>
+            <artifactId>mockito-inline</artifactId>
+            <groupId>org.mockito</groupId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <artifactId>mockito-junit-jupiter</artifactId>
+            <groupId>org.mockito</groupId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <groupId>org.springframework.boot</groupId>
+        </dependency>
+        <dependency>
+            <artifactId>spring-boot-starter-tomcat</artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <artifactId>spring-boot-devtools</artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
+            <artifactId>lombok</artifactId>
+            <groupId>org.projectlombok</groupId>
+            <scope>provided</scope>
+            <version>1.18.20</version>
+        </dependency>
+        <dependency>
+            <artifactId>jackson-datatype-jsr310</artifactId>
+            <groupId>com.fasterxml.jackson.datatype</groupId>
+        </dependency>
+        <dependency>
+            <artifactId>tomcat-embed-jasper</artifactId>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+    <description>Demo project for Spring Boot</description>
+    <groupId>com.vds.huylq33</groupId>
+    <modelVersion>4.0.0</modelVersion>
+    <name>spring-boot-demo</name>
+    <packaging>war</packaging>
+    <parent>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <groupId>org.springframework.boot</groupId>
+        <relativePath/>
+        <version>2.5.2</version> <!-- lookup parent from repository -->
+    </parent>
+    <properties>
+        <java.version>11</java.version>
+    </properties>
+
+    <version>0.0.1-SNAPSHOT</version>
+
+</project>
