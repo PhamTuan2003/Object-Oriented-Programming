@@ -69,11 +69,11 @@ Deep Copy (Sao chép sâu)
 ![[Screenshot 2024-09-20 105623.png]]
 ![[Screenshot 2024-09-20 105653.png]]
 
-3. Integer a = null; int b = 1; a == b trả giá trị gì ?
-Biểu thức a == b sẽ gây ra lỗi NullPoiterException trong java
-Vì Interger a == null; nghĩa là biến a đang trỏ tới giá trị null
-	int b = 1 là biến kiểu nguyên thủy (primitive), không thể null.
-	Khi biểu thức a == b được thực hiện, java sẽ tự động unbox đối tượng a từ kiểu Integer sang kiểu int  để so sánh với biến b.Tuy nhiên vì a là null việc unbox sẽ dẫn tới NullPoiterException do không thể unbox giá trị null thành kiểu int.
+1. Integer a = null; int b = 1; a == b trả giá trị gì ?
+2. Biểu thức a == b sẽ gây ra lỗi NullPoiterException trong java
+3. Vì Interger a == null; nghĩa là biến a đang trỏ tới giá trị null
+	1. int b = 1 là biến kiểu nguyên thủy (primitive), không thể null.
+	1. Khi biểu thức a == b được thực hiện, java sẽ tự động unbox đối tượng a từ kiểu Integer sang kiểu int  để so sánh với biến b.Tuy nhiên vì a là null việc unbox sẽ dẫn tới NullPoiterException do không thể unbox giá trị null thành kiểu int.
 	
 4. Có 2 interface A và B đều có method default giống nhau, nếu class C implements cả A và B thì C lấy method default nào?
 		Nó sẽ vẫn Override được nhưng nó sẽ không biết phải chọn phương thức nào ?
