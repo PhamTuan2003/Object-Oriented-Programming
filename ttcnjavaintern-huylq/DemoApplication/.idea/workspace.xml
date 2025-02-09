@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f5c6d4c-9ba3-4d07-85c6-6a256b29e597" name="Default Changelist" comment="Test access modifier">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documents/19_23_4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documents/PassBySlide.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documents/~$9_23_4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/DemoApplication.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/out/production/PassByDemo/EmployeeDemoClass$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/out/production/PassByDemo/EmployeeDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/out/production/PassByDemo/PassByValueImmutableObjectDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/out/production/PassByDemo/PassByValueMutableObjectDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/out/production/PassByDemo/PassByValuePrimitiveDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/out/production/PassByDemoApplication/EmployeeDemoClass$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/out/production/PassByDemoApplication/EmployeeDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/out/production/PassByDemoApplication/PassByValueImmutableObjectDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/out/production/PassByDemoApplication/PassByValueMutableObjectDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/out/production/PassByDemoApplication/PassByValuePrimitiveDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/out/production/PassByExample/DemoClass$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/out/production/PassByExample/DemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/src/EmployeeDemoClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/src/PassByValueImmutableObjectDemoClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/src/PassByValueMutableObjectDemoClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PassByDemoApplication/src/PassByValuePrimitiveDemoClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Platypus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Platypus" />
+      <module name="DemoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Platypus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f5c6d4c-9ba3-4d07-85c6-6a256b29e597" name="Default Changelist" comment="" />
+      <created>1619088194368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619088194368</updated>
+      <workItem from="1619088206059" duration="1139000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test access modifier">
+      <created>1619088962801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619088962801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test access modifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test access modifier" />
+  </component>
+</project>

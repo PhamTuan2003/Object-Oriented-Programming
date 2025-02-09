@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4bd510100cef314e",
+        "id": "666b2d279ec32e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "5e94cbedab19f43d",
+            "id": "f8cc2e392a7c4a4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOP/Abstraction (Tính trừu tượng).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Xem biểu đồ"
             }
           }
         ]
@@ -38,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Trình duyệt tệp"
             }
           },
           {
@@ -54,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Tìm kiếm"
             }
           },
           {
@@ -62,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Đánh dấu"
             }
           }
         ]
@@ -85,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP/Abstraction (Tính trừu tượng).md",
+                "file": "OOP/Các Câu Hỏi Thường Gặp Khi Học Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Liên kết đến của Các Câu Hỏi Thường Gặp Khi Học Java"
             }
           },
           {
@@ -102,10 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP/Abstraction (Tính trừu tượng).md",
+                "file": "OOP/Các Câu Hỏi Thường Gặp Khi Học Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Liên kết đi ra từ Các Câu Hỏi Thường Gặp Khi Học Java"
             }
           },
           {
@@ -116,7 +125,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +136,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP/Abstraction (Tính trừu tượng).md"
-              }
+                "file": "OOP/Các Câu Hỏi Thường Gặp Khi Học Java.md"
+              },
+              "icon": "lucide-list",
+              "title": "Đề cương của Các Câu Hỏi Thường Gặp Khi Học Java"
             }
           }
         ]
@@ -146,37 +159,50 @@
       "command-palette:Mở khay lệnh": false
     }
   },
-  "active": "18c9c014b5bf653b",
+  "active": "f8cc2e392a7c4a4e",
   "lastOpenFiles": [
-    "OOP/Tham chiếu và Tham trị trong Java.md",
-    "OOP/Wrapper Class and Primitive Data Type.md",
-    "OOP/Constructor in java.md",
+    "Collections/Iterable and Iterator.md",
+    "Collections/Queue.md",
+    "Collections/Vector.md",
+    "Collections/Linked List.md",
+    "Collections/List.md",
+    "Collections",
+    "JAVA-TUTORIAL/JVM.md",
+    "OOP/STATIC AND FINAL.md",
+    "JAVA-TUTORIAL/Thread in java.md",
     "OOP/Các Câu Hỏi Thường Gặp Khi Học Java.md",
     "OOP/Boxing và Unboxing.md",
-    "OOP/Cast Type (ÉP KIỂU).md",
     "OOP/Auto cast and Manual cast.md",
-    "OOP/Abstraction (Tính trừu tượng).md",
+    "JAVA-TUTORIAL/CÁC IDE ĐỂ CHẠY JAVA.md",
     "OOP/Polymorphism (Tính đa hình).md",
-    "OOP/STATIC AND FINAL.md",
-    "OOP/Phân biệt Orverviding and Orverloading.md",
-    "OOP/Phân biệt CLASS VÀ OBJECT.md",
-    "OOP/OBJECT ORIENTED PROGRAMMING.md",
-    "OOP/INTERFACE IN JAVA.md",
-    "OOP/Inhertitance (Tính kế thừa).md",
+    "OOP/Tham chiếu và Tham trị trong Java.md",
+    "OOP/Wrapper Class and Primitive Data Type.md",
+    "OOP/Abstraction (Tính trừu tượng).md",
+    "OOP/Cast Type (ÉP KIỂU).md",
+    "OOP/Constructor in java.md",
     "OOP/Encapsulation (Tính Đóng gói).md",
+    "OOP/Inhertitance (Tính kế thừa).md",
+    "OOP/INTERFACE IN JAVA.md",
+    "OOP/OBJECT ORIENTED PROGRAMMING.md",
+    "OOP/Phân biệt CLASS VÀ OBJECT.md",
+    "OOP/Phân biệt Orverviding and Orverloading.md",
+    "Chưa đặt tên.canvas",
+    "JAVA-TUTORIAL",
+    "ArrayList in Java.md",
+    "Collection in Java.md",
+    "imageCollection/Pasted image 20241008232046.png",
+    "imageCollection/Pasted image 20241008205907.png",
+    "imageCollection/Pasted image 20241008230953.png",
+    "imageCollection/Pasted image 20241008231916.png",
+    "Pasted image 20241008231926.png",
+    "imageCollection",
     "image/Screenshot 2024-09-26 215540.png",
     "image/Screenshot 2024-09-26 215520.png",
     "image/Screenshot 2024-09-26 214511.png",
     "image/Screenshot 2024-09-23 232932.png",
     "Screenshot 2024-09-26 214511 1.png",
-    "image/Screenshot 2024-09-23 232539.png",
-    "image/Screenshot 2024-09-23 231812.png",
-    "image/Screenshot 2024-09-23 223211.png",
-    "image/Screenshot 2024-09-23 223159.png",
-    "image/Screenshot 2024-09-23 215338.png",
     "image",
     "Chưa đặt tên 1.canvas",
-    "Chưa đặt tên.canvas",
     "OOP"
   ]
 }

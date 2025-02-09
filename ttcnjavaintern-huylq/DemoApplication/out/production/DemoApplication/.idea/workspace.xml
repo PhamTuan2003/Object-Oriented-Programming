@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75952342-b4ff-4396-aa6f-0454d0d0ab35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accessmodifiers/ClassPresident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accessmodifiers/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accessmodifiers/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherpackage/ABstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherpackage/Aasdfg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherpackage/VicePresident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherpackage/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Platypus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documents/19_23_4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documents/PassBySlide.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documents/~$9_23_4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/PassByDemoApplication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoApplication.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/out/production/PassByDemo/EmployeeDemoClass$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/out/production/PassByDemo/EmployeeDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/out/production/PassByDemo/PassByValueImmutableObjectDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/out/production/PassByDemo/PassByValueMutableObjectDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/out/production/PassByDemo/PassByValuePrimitiveDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/out/production/PassByDemoApplication/EmployeeDemoClass$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/out/production/PassByDemoApplication/EmployeeDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/out/production/PassByDemoApplication/PassByValueImmutableObjectDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/out/production/PassByDemoApplication/PassByValueMutableObjectDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/out/production/PassByDemoApplication/PassByValuePrimitiveDemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/out/production/PassByExample/DemoClass$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/out/production/PassByExample/DemoClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/src/EmployeeDemoClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/src/PassByValueImmutableObjectDemoClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/src/PassByValueMutableObjectDemoClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassByDemoApplication/src/PassByValuePrimitiveDemoClass.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1rWKLqUQrOPDQj3O4rxYJLjQFyI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75952342-b4ff-4396-aa6f-0454d0d0ab35" name="Default Changelist" comment="" />
+      <created>1619086352412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619086352412</updated>
+      <workItem from="1619086353603" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
